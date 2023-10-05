@@ -1,3 +1,12 @@
+## Introducción
+
+El objetivo de este proyecto es crear una aplicación haciendo uso de Nodejs para 
+la creación de una tabla de multiplicar según la base introducida con la
+bandera **--base** o **-b**, en donde si quiere mostrar el resultado en pantalla deberá
+diligenciar la bandera **-l** o **--listar**. El limite de cantidad de veces que se hará
+esta operación aritmetica se puede definir con la bandera **--hasta** o **-h**. 
+Finalmente crear un archivo en el directorio **/salida** con el contenido de esa tabla de multiplicar.
+
 ## Instalación
 1. Ejecutar el comando en la raiz del proyecto
 ```
@@ -9,14 +18,7 @@
     npm run prueba
 ```
 
-## Introducción
 
-El objetivo de este proyecto es crear una aplicación haciendo uso de Nodejs para 
-la creación de una tabla de multiplicar según la base introducida con la
-bandera **--base** o **-b**, en donde si quiere mostrar el resultado en pantalla deberá
-diligenciar la bandera **-l** o **--listar**. El limite de cantidad de veces que se hará
-esta operación aritmetica se puede definir con la bandera **--hasta** o **-h**. 
-Finalmente crear un archivo en el directorio **/salida** con el contenido de esa tabla de multiplicar.
 
 ### Options:
 ```
