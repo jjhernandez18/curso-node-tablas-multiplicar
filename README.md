@@ -1,6 +1,6 @@
 ## Introducción
 
-El objetivo de este proyecto es crear una aplicación haciendo uso de Nodejs para 
+El objetivo de este proyecto es crear una aplicación de consola haciendo uso de Nodejs para 
 la creación de una tabla de multiplicar según la base introducida con la
 bandera **--base** o **-b**, en donde si quiere mostrar el resultado en pantalla deberá
 diligenciar la bandera **-l** o **--listar**. El limite de cantidad de veces que se hará
@@ -18,8 +18,6 @@ Finalmente crear un archivo en el directorio **/salida** con el contenido de esa
     npm run prueba
 ```
 
-
-
 ### Options:
 ```
     --help     Show help                                            [boolean]
@@ -29,7 +27,7 @@ Finalmente crear un archivo en el directorio **/salida** con el contenido de esa
     -h, --hasta    Indica hasta donde debe multiplicar              [number] [default: 10]
 ```
 
-### Ejemplos
+### Ejemplo
 #### **Input**
 ```
     node app --base=4 --hasta=5 --listar
@@ -49,3 +47,6 @@ Finalmente crear un archivo en el directorio **/salida** con el contenido de esa
 
 tabla-4.txt creado!
 ```
+
+
+#### Muchas gracias por visitar mi proyecto!!
